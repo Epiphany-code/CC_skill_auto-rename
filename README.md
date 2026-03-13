@@ -131,7 +131,7 @@ Claude Code 的 session 文件存储在：
 
 ## 许可证
 
-MIT License
+Apache License 2.0
 
 ## 相关项目
 
